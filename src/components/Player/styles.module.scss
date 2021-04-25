@@ -12,15 +12,15 @@
     justify-content: space-between;
     transition: 3s;
     
-    animation: rotate 500ms 1 forwards;
-    animation-duration: 2s;
+    // animation: rotate 500ms 1 forwards;
+    // animation-duration: 2s;
 
-    @keyframes rotate{
-        to{
-            width: 0rem;
-            transform: rotateY(90deg);
-        }
-    }
+    // @keyframes rotate{
+    //     to{
+    //         width: 0rem;
+    //         transform: rotateY(90deg);
+    //     }
+    // }
 
 
 
